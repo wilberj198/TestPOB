@@ -1,0 +1,5 @@
+C:\Users\usuario\source\repos\NCAPAS_NETCORE\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.deps.json
+C:\Users\usuario\source\repos\NCAPAS_NETCORE\CAPA_DATOS\bin\Debug\netcoreapp3.1\CAPA_DATOS.dll
+C:\Users\usuario\source\repos\NCAPAS_NETCORE\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\NCAPAS_NETCORE\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\NCAPAS_NETCORE\CAPA_DATOS\obj\Debug\netcoreapp3.1\CAPA_DATOS.AssemblyInfo.cs
